@@ -1,1 +1,1 @@
-# computer-vision-lectures
+# Computer Vision Lectures
